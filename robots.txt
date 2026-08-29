@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://morteza81sa-bit.github.io/tashrifat-khatereh/sitemap.xml
